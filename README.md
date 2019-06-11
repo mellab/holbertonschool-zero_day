@@ -1,1 +1,1 @@
-This is the documentation for my Holberton School zero-day project.
+This is the official documentation for my Holberton School zero-day project.
