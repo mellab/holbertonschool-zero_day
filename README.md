@@ -1,0 +1,1 @@
+This is the documentation for my Holberton School zero-day project.
